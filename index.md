@@ -42,3 +42,5 @@ Thanks it worked!
 
 
 ## **Part 2 - Reflection**
+
+I learned how to make my task of running multiple commands easier using bash scripts. It has saved me a lot of time in running my tests for CSE 12 assignments.
